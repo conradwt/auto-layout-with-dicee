@@ -38,7 +38,7 @@ Bug reports and feature requests can be filed with the rest for the Ruby on Rail
 
 ## License
 
-<Project Name> is released under the [MIT license](https://mit-license.org).
+Auto Layout with Dicee is released under the [MIT license](https://mit-license.org).
 
 ## Copyright
 
