@@ -1,25 +1,45 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# <Project Name>
 
-# Auto-Layout-Practice
+<Project Description>
 
-## Our Goal
-Auto Layout and setting constraints in Xcode is both a complex topic and also involves very little Swift programming. That’s why we’ve left it out for all the apps we have made so far. But now that you’re on your way to becoming a serious app developer, we’re going to cover the key parts of Auto Layout and Constraints so your apps can look good on any device.
+## Getting Started
 
-Constraints allow us to set rules as to how we want our views to be displayed. Because mobile screens have different resolutions and sizes, we need these rules to tell the iPhone/iPad how it should layout the display. These rules allow our UI elements to be resized and positioned so that no matter which screen they are displayed on, they always look as the designer intended.
+## Software requirements
 
-## What You Will Create
+- Xcode 11.4.1 or higher
 
-Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the iPhone 6. We will fix this and make sure that the app looks perfect no matter what type of iPhone the user has both in landscape and portrait modes.
+- iOS 13.4.1 or higher
 
-## What You Will Learn
+- Swift 5.2 or higher
 
+## Navigate to the iOS application
 
-* How to add constraints and understanding how auto layout works.
-* How to Pin and Align UI elements.
-* How to create containers to configure advanced layouts.
-* How to debug auto layout errors.
-* Understanding what Xcode needs in order to correctly layout a design.
+```
+$ cd /path/to/ios/application
+```
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Starting the application
 
-![End Banner](Documentation/readme-end-banner.png)
+```zsh
+open *.xcodeproj
+```
+
+Followed by
+
+```text
+Command + R
+```
+
+## Support
+
+Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
+
+- [File Bug Reports and Features](https://github.com/conradwt/auto-layout-with-dicee/issues)
+
+## License
+
+<Project Name> is released under the [MIT license](https://mit-license.org).
+
+## Copyright
+
+copyright:: (c) Copyright 2019 Conrad Taylor. All Rights Reserved.
