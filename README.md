@@ -42,4 +42,4 @@ Auto Layout with Dicee is released under the [MIT license](https://mit-license.o
 
 ## Copyright
 
-copyright:: (c) Copyright 2019 Conrad Taylor. All Rights Reserved.
+copyright:: (c) Copyright 2020 Conrad Taylor. All Rights Reserved.
