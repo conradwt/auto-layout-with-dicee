@@ -1,4 +1,4 @@
-# <Project Name>
+# Auto Layout with Dicee
 
 <Project Description>
 
